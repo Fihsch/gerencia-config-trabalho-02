@@ -7,3 +7,12 @@ Material de partida:
 
 [Continuous deployment for large monorepos](https://www.uber.com/dk/en/blog/continuous-deployment/) (Uber Engineering, ago. 2024)
 [Controlling the Rollout of Large-Scale Monorepo Changes](https://www.uber.com/us/en/blog/controlling-the-rollout-of-large-scale-monorepo-changes/) (Uber Engineering, ago. 2025)
+
+Separações do trabalho 
+1. Introdução e contexto
+2.  O problema da Uber
+3. Continuous Deployment (Up CD)
+4. Funcionamento e resultados do Up CD
+5. O problema das grandes alterações
+6. Rollout progressivo e segurança
+7. Resultados, aplicações e conclusão
