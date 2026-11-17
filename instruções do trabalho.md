@@ -10,11 +10,11 @@ Material de partida:
 
 Separações do trabalho 
 1. Introdução e contexto
-2.  O problema da Uber
+2. O problema da Uber
 3. Continuous Deployment (Up CD)
 4. Funcionamento e resultados do Up CD
-5. O problema das grandes alterações
+5. O problema das grandes alterações - Filipe
 6. Rollout progressivo e segurança
-7. Resultados, aplicações e conclusão
+7. Resultados, aplicações e conclusão - Nicolas
 
 link apresentação: https://canva.link/p77cteh0dxfi2e0
