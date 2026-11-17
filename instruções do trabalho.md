@@ -16,3 +16,5 @@ Separações do trabalho
 5. O problema das grandes alterações
 6. Rollout progressivo e segurança
 7. Resultados, aplicações e conclusão
+
+link apresentação: https://canva.link/p77cteh0dxfi2e0
