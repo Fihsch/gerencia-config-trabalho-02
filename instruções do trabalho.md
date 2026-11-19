@@ -10,7 +10,7 @@ Material de partida:
 
 Separações do trabalho 
 1. Introdução e contexto
-2. O problema da Uber
+2. O problema da Uber - Guilherme Spido
 3. Continuous Deployment (Up CD)
 4. Funcionamento e resultados do Up CD
 5. O problema das grandes alterações - Filipe
