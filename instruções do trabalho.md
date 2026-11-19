@@ -9,7 +9,7 @@ Material de partida:
 [Controlling the Rollout of Large-Scale Monorepo Changes](https://www.uber.com/us/en/blog/controlling-the-rollout-of-large-scale-monorepo-changes/) (Uber Engineering, ago. 2025)
 
 Separações do trabalho 
-1. Introdução e contexto
+1. Introdução e contexto - Gabriel Bado
 2. O problema da Uber
 3. Continuous Deployment (Up CD)
 4. Funcionamento e resultados do Up CD
