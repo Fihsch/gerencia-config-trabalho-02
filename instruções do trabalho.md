@@ -13,7 +13,7 @@ Separações do trabalho
 1. Introdução e contexto - André
 2. O problema da Uber - Guilherme Spido
 3. Continuous Deployment (Up CD)- Gabriel Bado
-4. Funcionamento e resultados do Up CD
+4. Funcionamento e resultados do Up CD - Gianluca
 5. O problema das grandes alterações - Filipe
 6. Rollout progressivo e segurança
 7. Resultados, aplicações e conclusão - Nicolas
